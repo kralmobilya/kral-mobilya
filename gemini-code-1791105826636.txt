@@ -1,0 +1,4 @@
+mobilya-katalogu/
+├── index.html
+├── style.css
+└── README.md
