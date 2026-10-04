@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://arifsenlik101-lgtm.github.io/kral-mobilya/sitemap.xml
+Sitemap: https://kralmobilya.github.io/sitemap.xml
